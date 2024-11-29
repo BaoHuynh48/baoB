@@ -9,8 +9,8 @@ A syringe pump has been developed to control the volume and flow rate of a liqui
 ## Objective
 The primary objectives of a syringe pump include: Precision Fluid Dispensing, Controlled Flow Rate, Accurate Volume Control, Long-duration Operation, Versatility in Applications. Overall, the syringe pump serves as a critical tool in laboratories and clinical settings where precise, controlled fluid movement is necessary.
 ## Flow Chart
-![Flow Chart](Flow chart.png)
+![Flow Chart](FlowChart.png)
 ## Block Diagram
 ![Block Diagram](BlockDiagram.png)
 ## State Diagram
-![State Diagram](State Diagram.png)
+![State Diagram](StateDiagram.png)
